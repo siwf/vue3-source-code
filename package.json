@@ -1,0 +1,12 @@
+{
+  "name": "vue3-source",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^3.0.7"
+  }
+}
